@@ -11,7 +11,7 @@ https://play.flow.com/
 
 ### Installing
 
-Go to the flow playground website first add the contract in the contract folder, add script file in the script folder and lastly, add transaction file in the transaction folder. Deploy the contract on any account of your choice then execute the transaction file, make sure you enter all the required data, at the last execute the script file to get entered values.
+Go to the flow playground website first add the contract in the contract folder, add script file in the script folder and finally add transaction file in the transaction folder. Deploy the contract on account of your choice then execute the transaction file, enter all the required data, at the last execute the script file to get desired values.
 
 ### Executing program
 
